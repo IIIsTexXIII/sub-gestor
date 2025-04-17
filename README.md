@@ -91,9 +91,3 @@
 - Aplica respaldo automático de la DB
 
 ---
-
-## 📌 Autor
-
-Este proyecto fue generado como una solución profesional personalizada en conjunto con asistencia inteligente y visión de producto 💡
-
----
