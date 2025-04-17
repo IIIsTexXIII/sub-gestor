@@ -35,9 +35,8 @@
 ### Requisitos:
 
 - Python 3.10+
-- PostgreSQL
+- PostgreSQL (si quieres usar otra base de datos, cambia los ajustes en el settings.py)
 - Node.js + npm
-- `python-dateutil` instalado (`pip install python-dateutil`)
 
 ### Pasos recomendados:
 
