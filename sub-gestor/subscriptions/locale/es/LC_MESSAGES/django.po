@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+# Categorías
+msgid "Streaming"
+msgstr "Streaming"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Productividad"
+msgstr "Productividad"
+
+msgid "Videojuegos"
+msgstr "Videojuegos"
+
+msgid "Otro"
+msgstr "Otro"
+
+# Ciclos de facturación
+msgid "Mensual"
+msgstr "Mensual"
+
+msgid "Anual"
+msgstr "Anual"
+
+msgid "Semanal"
+msgstr "Semanal"
+
+msgid "Pago único"
+msgstr "Pago único"
+
+# Métodos de pago
+msgid "Tarjeta"
+msgstr "Tarjeta"
+
+msgid "PayPal"
+msgstr "PayPal"
+
+# Form labels
+msgid "Service name"
+msgstr "Nombre del servicio"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Start date"
+msgstr "Fecha de inicio"
+
+msgid "Next payment date"
+msgstr "Próximo pago"
+
+msgid "Payment method"
+msgstr "Método de pago"
+
+msgid "Notes"
+msgstr "Notas"
+
+# Botones
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+# Errores
+msgid "This field is required."
+msgstr "Este campo es obligatorio."
+
+msgid "Enter a valid date."
+msgstr "Introduce una fecha válida."
+
+msgid "Ensure this value is greater than or equal to 0."
+msgstr "Este valor debe ser mayor o igual a 0."
+
+# General
+msgid "Subscriptions"
+msgstr "Suscripciones"
+
+msgid "My Subscriptions"
+msgstr "Mis suscripciones"
+
+msgid "Add Subscription"
+msgstr "Añadir suscripción"

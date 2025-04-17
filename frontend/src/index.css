@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply transition-colors duration-500 bg-white text-black dark:bg-slate-900 dark:text-white;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+}
+
+.input-field {
+  @apply transition-colors duration-500 w-full px-4 py-2 rounded-md bg-gray-100 dark:bg-slate-700 text-black dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-400;
+}
+
+.btn {
+  @apply transition-colors duration-500 text-sm font-medium py-1 px-3 rounded-md;
+}
+.btn-edit {
+  @apply bg-blue-600 hover:bg-blue-700 text-white;
+}
+.btn-delete {
+  @apply bg-red-500 hover:bg-red-600 text-white;
+}
+.btn-toggle {
+  @apply bg-gray-300 hover:bg-gray-400 text-slate-800 dark:bg-gray-700 dark:hover:bg-gray-600 dark:text-white;
+}
+
+.input-field {
+  @apply w-full px-4 py-2 rounded-md bg-gray-100 dark:bg-slate-700 text-black dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-400;
+}
+
+@keyframes spin-once {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-once {
+  animation: spin-once 0.5s ease-in-out;
+}
